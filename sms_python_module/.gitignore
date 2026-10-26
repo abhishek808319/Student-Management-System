@@ -1,0 +1,12 @@
+@'
+__pycache__/
+*.py[cod]
+venv/
+.venv/
+.env
+.env.*
+!.env.example
+*.log
+student_performance.png
+subject_performance.png
+'@ | Set-Content "E:\sms_python_module\.gitignore"

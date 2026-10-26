@@ -1,0 +1,22 @@
+
+# Python
+__pycache__/
+*.py[cod]
+venv/
+.venv/
+.env
+
+# Java and Maven
+target/
+
+# Eclipse workspace files
+.metadata/
+
+# Logs and local credentials
+*.log
+secrets.properties
+credentials.json
+
+# Operating system files
+.DS_Store
+Thumbs.db
